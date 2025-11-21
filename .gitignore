@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.pyc
+
+# Virtual environment
+venv/
+env/
+myenv/
+.venv/
+.env/
+.myenv/
+
+# VS Code
+.vscode/
+
+# macOS (nếu dùng)
+.DS_Store
+
+# Logs
+*.log
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Datasets / folders riêng
+dior/
+dior_converted/
+dior_task2/
+dior_task3/

@@ -1,0 +1,10 @@
+path: dior_task1
+train: images/train
+val: images/val    
+test: images/test 
+names:
+  0: Chimney
+  1: Dam
+  2: Stadium
+  3: Wind mill
+  
